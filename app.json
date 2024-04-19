@@ -1,8 +1,8 @@
 {
   "name": "asta7780",
-  "website": "https://github.com/asta7780/F1",
+  "website": "https://github.com/BrunoSobrino",
   "description": "Subscribete a The Shadow Borkers - Bot (≧▽≦)",
-  "repository": "https://github.com/asta7780/F1",
+  "repository": "https://github.com/BrunoSobrino/asta7780",
   "logo": "https://raw.githubusercontent.com/BrunoSobrino/asta7780/master/src/pictures/heroku-icon.jpg",
   "success_url": "https://github.com/BrunoSobrino/asta7780",
   "keywords": [
@@ -29,10 +29,10 @@
       "url": "heroku/nodejs"
     },
     {
-      "url": "https://github.com/asta7780/F1"
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
     },
     {
-      "url": "https://github.com/asta7780/F1"
+      "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick"
     }    
  ]
 }
